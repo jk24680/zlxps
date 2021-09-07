@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zlxps", "zlxps\zlxps.vcxproj", "{D96569E9-4A96-49BA-BAE0-A1A1B40CCCE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96569E9-4A96-49BA-BAE0-A1A1B40CCCE7}.Debug|x64.ActiveCfg = Debug|x64
+		{D96569E9-4A96-49BA-BAE0-A1A1B40CCCE7}.Debug|x64.Build.0 = Debug|x64
+		{D96569E9-4A96-49BA-BAE0-A1A1B40CCCE7}.Release|x64.ActiveCfg = Release|x64
+		{D96569E9-4A96-49BA-BAE0-A1A1B40CCCE7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C093D4-AB99-46AD-B792-9F33A7EA368A}
+	EndGlobalSection
+EndGlobal
